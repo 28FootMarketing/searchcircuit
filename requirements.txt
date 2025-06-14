@@ -1,0 +1,8 @@
+streamlit
+openai
+pandas
+scikit-learn
+beautifulsoup4
+tldextract
+plotly
+requests
